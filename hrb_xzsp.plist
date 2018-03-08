@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.255.129:10000/oapp/app/hrb_xzsp.ipa</string>
+					<string>http://218.9.149.43:8001/app/hrb_xzsp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.255.129:10000/oapp/app/icon.png</string>
+					<string>http://218.9.149.43:8001/app/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.255.129:10000/oapp/app/icon.png</string>
+					<string>http://218.9.149.43:8001/app/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
